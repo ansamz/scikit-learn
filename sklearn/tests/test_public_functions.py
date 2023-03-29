@@ -166,6 +166,7 @@ PARAM_VALIDATION_FUNCTION_LIST = [
     "sklearn.metrics.confusion_matrix",
     "sklearn.metrics.coverage_error",
     "sklearn.metrics.d2_pinball_score",
+    "sklearn.metrics.d2_absolute_error_score",
     "sklearn.metrics.d2_tweedie_score",
     "sklearn.metrics.dcg_score",
     "sklearn.metrics.det_curve",
